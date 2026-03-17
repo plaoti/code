@@ -1,0 +1,6 @@
+name = input("이름을 입력해 주세요: ")
+schoolNumber = int(input("학번을 입력해 주세요. *정수입력*: "))
+print(f'{name}\t{schoolNumber}')
+print(name*3)
+number = str(schoolNumber)
+print(number*3)
